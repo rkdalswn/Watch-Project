@@ -20,4 +20,4 @@ void Watch::getTime()
 	cout << hour << "시";
 	cout << minute << "분";
 	cout << second << "초";
-};
+}
